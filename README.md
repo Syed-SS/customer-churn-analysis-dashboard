@@ -131,7 +131,7 @@ customer-churn-analysis-dashboard
 
 ### KPI Dashboard
 
-![KPI Dashboard](screenshots/kpi-dashboard.png)
+![KPI Dashboard](screenshots/key-insights.png)
 
 ---
 
